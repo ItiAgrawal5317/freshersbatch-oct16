@@ -11,3 +11,6 @@ This Assignment is related to html Assignment
 
 Delete html-assignment branch
 create css-assignment branch
+
+Delete css-assignment branch
+create js-assignment branch
