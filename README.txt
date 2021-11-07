@@ -1,6 +1,6 @@
 I have a folder which name is Assignment
 
-I need to do some task as per mentioned.
+I need to complete this assignment as per Instruction.
 Here I have text file that is README.txt
 In this file i need to write something realated to folder.
 Here I will follow the git command to complete the Assignment.
