@@ -1,4 +1,4 @@
-I have a folder which name is Assignment
+Here, I have an Assignment name folder which have html, css, js assignment.
 
 I need to complete this assignment as per Instruction.
 Here I have text file that is README.txt
